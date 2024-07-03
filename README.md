@@ -76,7 +76,7 @@ With two commands you can compile a ZKP, generate a proof, deploy a verifier, an
 
 ## Author 
 
-Rishabh-198
+Arpit Dhasmana
 
 ## Contributing
 Contributions to this repository are not accepted as it is for personal assignments. However, if you have suggestions or feedback, feel free to open an issue.
